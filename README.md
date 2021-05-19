@@ -129,4 +129,4 @@ Thank you to everyone who made this project possible, including the many users w
 
 ![The Great Gatsby](https://camo.githubusercontent.com/a615c7e1ef9a850f5427cdc153186763305bb853/68747470733a2f2f692e696d6775722e636f6d2f4472386a3569762e676966)
 
-###### Made with Love by [Amruth Pillai](https://amruthpillai.com/)
+###### Made with Love by [Himanshu Vashisht]

@@ -2,8 +2,7 @@
 
 ## A free and open source resume builder.
 
-[![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
-[![GitHub](https://img.shields.io/github/license/AmruthPillai/Reactive-Resume)](https://github.com/AmruthPillai/Reactive-Resume/blob/develop/LICENSE)
+
 
 ### [Go to App](https://rxresu.me/)
 
@@ -37,44 +36,6 @@ You have complete control over what goes into your resume, how it looks, what co
 &nbsp;
 <img src="https://raw.githubusercontent.com/AmruthPillai/Reactive-Resume/develop/static/images/screenshots/screen-5.png" width="400px" />
 
-### Translation
-
-To translate the app, just fork the repository, go to `src/i18n/locales` and duplicate the `en.json` file to a new file `your-lang-code.json` and translate all of the strings inside. It's a simple process that would take just a few minutes, and by contributing, your name could also be added down below as a contributor.
-
-For those of you familiar with the Crowdin Platform, you could do that too and just head to http://crowdin.com/project/reactive-resume/ to translate the app over there. They have a great interface that helps you navigate through various strings and manage translations.
-
-##### Languages Currently Supported
-
-- Arabic (عربى)
-- Bengali (বাংলা)
-- Czech (čeština)
-- Chinese Simplified (简体中文)
-- Danish (Dansk)
-- Dutch (Nederlands)
-- English (US)
-- Finnish (Suomalainen)
-- French (Français)
-- German (Deutsche)
-- Greek (Ελληνικά)
-- Hindi (हिंदी)
-- Italian (Italiano)
-- Japanese (日本人)
-- Kannada (ಕನ್ನಡ)
-- Lithuanian (Lietuvių)
-- Norwegian (Norsk)
-- Persian (Farsi)
-- Polish (Polskie)
-- Portuguese (Brazilian)
-- Portuguese (Portugal)
-- Romanian (Română)
-- Russian (русский)
-- Slovak (Slovenčina)
-- Spanish (Español)
-- Swedish (Svenska)
-- Turkish (Türkçe)
-- Ukrainian (Українська)
-
-Thank you to all the amazing people who have contributed to Reactive Resume by translating it into their native language.
 
 ### Building from Source
 
@@ -113,13 +74,7 @@ FIREBASE_STORAGEBUCKET=""
 
 And that's it! 🎉
 
-### Donation
 
-I try to do what I can, but if you found the app helpful, or you're in a better position than the others who depend on this project for their first job, please consider donating as little as \$5 to help keep the project alive :)
-
-#### https://www.buymeacoffee.com/AmruthPillai
-
-![Please buy me a coffee](https://i.imgur.com/x7g6kvF.png)
 
 ### Appreciation
 
